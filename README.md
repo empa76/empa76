@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @empa76
+- 👋 Hi, I’m Marek
 
 <!---
 empa76/empa76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
