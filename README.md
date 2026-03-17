@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marek, fullstack developer [Ruby on Rails, Elixir + Phoenix, ReactJS, CSS, mobile, ...]
+- 👋 Hi, I’m Marek, software engineer [Ruby on Rails, React, CSS, docker, ...]
 
 <!---
 empa76/empa76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
