@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marek, software engineer [Ruby on Rails, React, CSS, docker, ...]
+- 👋 Hi, I’m Marek, software engineer and aspiring devops [Ruby on Rails, React, CSS, docker, k8s, ...]
 
 <!---
 empa76/empa76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
